@@ -1,0 +1,78 @@
+.themain{
+    background: linear-gradient(purple,pink);
+    font-family: "Loved by the King", cursive;
+    color: rgb(218, 218, 218);
+    text-shadow: 2px 2px 3px black;
+}
+img{
+    width: 300px;
+    border-radius: 50%;
+    border: 5px solid rgb(158, 111, 178);
+}
+h3{
+    background-color: rgb(73, 47, 84);
+    padding: 10px 20px;
+    margin-bottom: 2px;
+    margin-top: 6px;
+}
+h4{
+    background-color: rgb(73, 47, 84);
+    padding: 10px 20px;
+}
+.main_body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.img{
+    background-image: url("giftt.jpg");
+    background-size: cover;
+    width: 300px;
+    height: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 5px solid rgb(158, 111, 178);
+
+}
+#howifeel{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+#happy:hover{
+    background-image: url("happymun.gif");
+}
+#excite:hover{
+    background-image: url("excited.gif");
+}
+.mona{
+    font-size: 50px;
+}
+button{
+    background-color: rgb(73, 47, 84);
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    color: aliceblue;
+    font-family:"Loved by the King", cursive;
+    font-size: 30px;
+    width: 100px;
+}
+.ilove{
+    background: url(galaxyy.webp);
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: auto;
+  
+}
+.i{
+    font-size: 100px;
+    color: aliceblue;
+    text-align: center;
+    font-family: "Shrikhand", serif;
+    margin-top: 20%;
+    text-shadow: 0 0 20px black;
+}
